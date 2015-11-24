@@ -1,2 +1,2 @@
 # testGit
-make a test --- Git
+git初学指南（Github）
